@@ -1,1 +1,2 @@
 V 1.0: Welcome!, MissInjector was recoded from 0, to improve optimization and correct various errors!
+V 1.1: InjectLogs Added, Added support for other Operating Systems (Win 7 and Win10), Added Unload Button
